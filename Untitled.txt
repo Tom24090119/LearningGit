@@ -36,15 +36,11 @@
 
 17) git checkout - : switches branch to previous branch
 
-<<<<<<< HEAD
 18) git push -u origin feature-a : Uploads to the new Branch in the remote Server
 
 19) git branch -d BRANCHNAME : Deletes the branch with this name
 
 20) git log --oneline : shows all commits more readable format.
 
-21)
-=======
-18) 
->>>>>>> ac2af9390bc04d9e8d3ccc8c14768acdfe9427a6
+21) git rebase --continue
 
