@@ -20,5 +20,21 @@
 
 9) git commit --amend -m "TYPE YOUR NEW MESSAGE HERE" : updates the latest commit description with new commit. 
 
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIc7tu4rYySIab+06JmzD+PAhsiNBjjBILIkZJdnw/tk Aaryamaanpol15@gmail.com
+10) git push -u origin main : Uploads file to GitHub
+
+11) git pull : pulls the latest commit files from the gitHub Account
+
+12) git branch : shows the current working branch 
+
+13) git branch -r : shows the branch on the remote Server(GitHub)
+
+14) git branch -a : shows all the branches
+
+15) git branch BranchName-a : Creates a new Branch
+
+16) git checkout BRANCHNAME : switches branch to BRANCHNAME
+
+17) git checkout - : switches branch to previous branch
+
+18) 
 
