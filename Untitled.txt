@@ -18,3 +18,7 @@
 
 8) git diff : shoes the changes in the files (Also can use git diff FILENAME to see the changes of that file)
 
+9) git commit --amend -m "TYPE YOUR NEW MESSAGE HERE" : updates the latest commit description with new commit. 
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIc7tu4rYySIab+06JmzD+PAhsiNBjjBILIkZJdnw/tk Aaryamaanpol15@gmail.com
+
