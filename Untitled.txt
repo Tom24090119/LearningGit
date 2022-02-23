@@ -1,0 +1,14 @@
+1) To add git to your working repository. Go to the folder location through terminal and then run command : git init . ("." means the current directory)
+	For example: "cd learning-git" and then "git init ."
+
+2) git status : Gives us the status of changes we have made
+
+3) git add : adds the file staging area.
+	git add . : Adds all the files from the git directory to the staging area downwards
+	git add -A : Adds all the files to staging area,
+
+4) git rm -r --cached . " removes all the files from the staging area
+(Sometimes need to use git rm -r -f --cached . )
+
+
+
