@@ -10,5 +10,11 @@
 4) git rm -r --cached . " removes all the files from the staging area
 (Sometimes need to use git rm -r -f --cached . )
 
+5) git commit -m "Type your message here" " Commits the changes with the messages that is typed
 
+6) git log : gives the logs of all the commits.
+
+7) git show PASTE THE HASH HERE FROM THE git log : shows the changes in files in that commit 
+
+8) git diff : shoes the changes in the files (Also can use git diff FILENAME to see the changes of that file)
 
